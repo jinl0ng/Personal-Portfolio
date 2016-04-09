@@ -1,1 +1,10 @@
+You always reference ids by putting a # in front of their names.
+  eg:<h1 id="target1">text</h1>
+  <a href="#target1">goto h1</a>
 
+use font awesome icon http://www.bootcss.com/p/font-awesome/#examples
+first add :<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+  eg:<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+      <i class="fa fa-arrow-circle-up fa-5x">back to top</i>
+      
+useful website http://www.bootcss.com/  
